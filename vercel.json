@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/post/2022-08-15/081522.html",
+      "destination": "/index.html"
+    }
+  ]
+}
